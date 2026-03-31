@@ -181,6 +181,24 @@ This repository became **the fastest GitHub repo in history to surpass 30K stars
 
 ![Star History Screenshot](assets/star-history.png)
 
+## Fork & Clone
+
+This is a fork of the original repository. You can clone this fork directly:
+
+```bash
+git clone https://github.com/hassansys2/claw-code.git
+```
+
+Or via SSH:
+
+```bash
+git clone git@github.com:hassansys2/claw-code.git
+```
+
+**Original repository:** [https://github.com/instructkr/claw-code](https://github.com/instructkr/claw-code)
+
+---
+
 ## Ownership / Affiliation Disclaimer
 
 - This repository does **not** claim ownership of the original Claude Code source material.
